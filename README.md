@@ -19,7 +19,6 @@ I enjoy learning, exploring new languages and polishing my skills
 - ⚡ Fun fact: Smiling can boost your immune system
 
 ### Languages & Frameworks.
-
 ![icons8-javascript-48](https://user-images.githubusercontent.com/23447217/215258025-be054b31-f111-4c3d-8604-c8efac4d6d9e.png)
 ![icons8-html-5-48](https://user-images.githubusercontent.com/23447217/215258099-b198b78d-097e-4b42-ba68-8b25390ece63.png)
 ![icons8-css3-48](https://user-images.githubusercontent.com/23447217/215258114-bb82fe53-c2b6-4982-b6ce-3e059d22d9f7.png)
@@ -28,12 +27,17 @@ I enjoy learning, exploring new languages and polishing my skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SFarida)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Github stats
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SFarida&count_private=true&show_icons=true&theme=tokyonight)
 
 ### Interested in:
 - Web apps, front-end, devOps.
 
 #### Top Repositories
+Portfolio is a mobile friendly website which was built with mobile-first approach.
+
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=SFarida&repo=portfolio)](https://github.com/SFarida/portfolio)
+
+Todo list is a website to manage daily tasks, where you can add, edit, delete, mark a task as complete
+
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=SFarida&repo=to-do-list)](https://github.com/SFarida/to-do-list)
+
