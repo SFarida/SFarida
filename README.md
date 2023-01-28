@@ -35,6 +35,4 @@ I enjoy learning, exploring new languages and polishing my skills
 <a href="https://github.com/SFarida/portfolio">
   ![portfolio](https://user-images.githubusercontent.com/23447217/215258961-0f54f925-43af-482f-b7e2-f0c9a06f5bb2.png)
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io"></a>
