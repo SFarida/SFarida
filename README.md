@@ -36,6 +36,6 @@ I enjoy learning, exploring new languages and polishing my skills
 #### Pinned
 Portfolio is a mobile friendly website which was built with mobile-first approach.
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=SFarida&repo=portfolio)](https://github.com/SFarida/portfolio)
+
 
 
