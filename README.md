@@ -24,7 +24,7 @@ I enjoy learning, exploring new languages and polishing my skills
 ![icons8-css3-48](https://user-images.githubusercontent.com/23447217/215258114-bb82fe53-c2b6-4982-b6ce-3e059d22d9f7.png)
 ![icons8-angularjs-48](https://user-images.githubusercontent.com/23447217/215257974-f7da6254-329d-415a-956f-5018f6f939a4.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SFarida)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SFarida)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ### Github stats
