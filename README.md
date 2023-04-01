@@ -27,8 +27,8 @@ I enjoy learning, exploring new languages and polishing my skills
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SFarida)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<!-- ### Github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SFarida&count_private=true&show_icons=true&theme=tokyonight) -->
+### Github stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SFarida&count_private=true&show_icons=true&theme=tokyonight)
 
 ### Interested in:
 - Web apps, front-end, devOps and python.
